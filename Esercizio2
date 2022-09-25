@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrazione per un app di music streaming</title>
+</head>
+<body>
+    <h1>Registrazione:</h1>
+    <div>
+        <form onsubmit="alert ('Registrazione inviata')">
+        <div>
+            Nome:
+            <input type="text" placeholder=" Inserisci il tuo nome ">
+        </div>
+        <div>
+            Cognome:
+            <input type="text" placeholder="Inserisci il tuo cognome">
+        </div>
+        <div>
+            Email:
+            <input type="email" placeholder="Inserisci la tua email">
+        </div>
+        <div>
+            Password:
+            <input type="password" placeholder="Inserisci la tua password">
+        </div>
+        <div>
+            Inserisci la tua data di nascita:
+            <input type="date" >
+        </div>
+        <div>
+            Numero di cellulare:
+            <input type="number" placeholder=" cellulare">
+        </div>
+        <div>
+            Quale musica preferisci?
+            <br>
+            <input type="checkbox" name="service" value="Rock">Rock
+            <input type="checkbox" name="service" value="Jazz">Jazz
+            <input type="checkbox" name="service" value="Pop Music">Pop Music
+            <input type="checkbox" name="service" value="Rap">Rap
+        </div>
+        <div>
+            Accetta termini e condizioni
+            <input type="radio" >
+        </div>
+        
+        <button type="submit">Invia Registrazione</button>
+    </div>
+    </form>
+    </div>
+
+
+</body>
+</html>
