@@ -1,1 +1,65 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>First web page</title>
+</head>
+<body>
+    <h1>Il mio profilo</h1>
+    
+    <p>
+        Salve a tutti sono Giovanni e qui troverete alcuni miei hobby e informazioni
+    </p>
+    <div >
+        <h3 style="background-color: yellow;"> I miei hobby:</h3>
+        <ul>
+            <li>Calcio</li>
+            <li>Guardare serie Tv</li>
+            <li>Giardinaggio</li>
+           
+        </ul>
+    
+        <h3 style="background-color: violet;">I miei Contatti</h3>
+        <ul>
+            <li>Nome: Giovanni</li>
+            <li>Cognome: Galatioto</li>
+            <li>Età: 32</li>
+            <li>Tel: 3791313759</li>
+            <li>email: <a href="mailto:giovannigalatioto.90@gmail.com">giovannigalatioto.90@gmail.com</a></li>
+        </ul>
+    </div>
+    <table>
+        
+    </table>
+    <figure>
+    <img src="https://mail.google.com/mail/u/0?ui=2&ik=de36e7cef5&attid=0.1&permmsgid=msg-a:r-6335955152326749072&th=183737ebe78eea14&view=att&disp=safe&realattid=f_l8h08e7h0" alt="" width="300px" height="300px ">
+    <br/>
+    <figcaption>
+        Ciao Sono Giovanni e sono nuovo
+    </figcaption>
+    </figure>
+    <h4 style="color: chocolate;">ISTRUZIONE</h4>
+<table style="border-collapse:collapse; color: black">
+  <tr>
+    <th style="color: black; border: 1px solid black;" ><b>DOVE</b></th>
+    <th style="color: black; border: 1px solid black;" ><b>DIPLOMA</b></th>
+    <th style="color: black; border: 1px solid black;" ><b>TEMPO</b></th>
+</tr>
+<tr>
+    <td style="color: black; border: 1px solid black;"><b>Partinico (Sicilia)</b></td>
+    <td style="color: black; border: 1px solid black;"><b>Diploma in tecnico dei sistemi aziendali</b></td>
+    <td style="color: black; border: 1px solid black;"><b>5 anni</b></td>
+</tr>
+<tr>
+    <td style="color: black; border: 1px solid black;"><b>Londra</b></td>
+    <td style="color: black; border: 1px solid black;"><b>Diploma in Business and Administration</b></td>
+    <td style="color: black; border: 1px solid black;"><b>1 anno</b></td>
+</tr>
+
+</table>
+
+</body>
+</html>
